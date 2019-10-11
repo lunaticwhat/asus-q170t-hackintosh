@@ -33,4 +33,4 @@ Since this is just a early release, I will looking for contributes from the whol
 
 ## Updating.
 
-A big thanks to r/hackintosh, tonymacx86, Hackintosh Vietnam, and specially who made all the bootloader, kext, fix, patches, etc.. !
+A big thanks to r/hackintosh, tonymacx86, Hackintosh Vietnam, and specially who made all the bootloader, kexts, fixs, patches, any hackintosh stuffs !
