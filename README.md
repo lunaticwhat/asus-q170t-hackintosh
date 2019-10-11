@@ -15,7 +15,19 @@ Intel SSD 5 180GB m2 Sata
 ```
 
 What works:
+```
+Intel UHD 630 with both HDMI & Display Port
+Sound (already layout 7, you may need to try another layout like 3 or 5 because of to many Lineout output in audio devices)
+Sleep & Wake ( must disable wake on lan and power nap in System Preferences )
+Native Power Management (Maybe ? need report)
+Both Intel and Realtek LAN
+All extenal 3.0 USB Port
+```
 
-   Intel UHD 630 with both HDMI & Display Port
-   Sound (aready layout 7, you may need to try another layout because of to many Lineout output in audio devices)
-   
+What does not works:
+```
+You try to help me :D
+```
+
+Since this is just a early release, I will looking for contributes from the whole Hackintosh community, and you to fix everything left ;)
+
