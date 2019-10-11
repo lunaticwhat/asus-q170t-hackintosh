@@ -31,6 +31,9 @@ Native PM, may work or not, need report.
 
 Since this is just a early release, I will looking for contributes from the whole Hackintosh community, and you to fix everything left ;)
 
+### What included:
+I can't remember them all atm, will update soon.
+
 ## Updating.
 
 A big thanks to r/hackintosh, tonymacx86, Hackintosh Vietnam, and specially who made all the bootloader, kexts, fixs, patches, any hackintosh stuffs !
