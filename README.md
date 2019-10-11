@@ -4,7 +4,7 @@ View raw = Download
 
 Current supported MacOS Mojave 10.14.6 (Lastest security patch update)
 
-Just extract and put the EFI to your clean EFI partition 
+Just extract and put the EFI folder to your clean EFI partition 
 
 ### My config: 
 ```
@@ -32,3 +32,5 @@ Native PM, may work or not, need report.
 Since this is just a early release, I will looking for contributes from the whole Hackintosh community, and you to fix everything left ;)
 
 ## Updating.
+
+A big thanks to r/hackintosh, tonymacx86, Hackintosh Vietnam, and specially who made all the bootloader, kext, fix, patches, etc.. !
