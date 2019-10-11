@@ -8,7 +8,7 @@ Just extract and put the EFI folder to your clean EFI partition
 
 ### My config: 
 ```
-Intel Core i3 8100
+Intel Core i3 8100 (Required Bios mod for Coffeelake CPU support on 1151v1 motherboards)
 Asus Q170t Motherboard
 Samsung 8GB DDR4 2400 Laptop Ram
 Intel SSD 5 180GB m2 Sata
