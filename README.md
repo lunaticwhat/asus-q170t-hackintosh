@@ -1,3 +1,4 @@
+Update 7/2020: Removed Apple Firmware and stuff for copyright issue.
 # Hackintosh EFI Config for Asus Q170T Motherboard
 
 View raw = Download
