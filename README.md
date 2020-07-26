@@ -5,7 +5,7 @@ View raw = Download
 
 Current supported MacOS Mojave 10.14.6 (Lastest security patch update)
 
-Just extract and put the EFI folder to your clean EFI partition 
+Just extract and replace CLOVER folder with your.
 
 ### My config: 
 ```
